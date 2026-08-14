@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz

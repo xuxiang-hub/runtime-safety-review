@@ -1,0 +1,101 @@
+phrase,early_count_2018_2021,early_share_pct,recent_count_2024_2026_partial,recent_share_pct,log2_share_ratio_smoothed,emergence_score
+large language,0,0.0,84,2.4655,5.5562,24.6843
+long tail,0,0.0,41,1.2034,4.5391,16.9658
+success rates,0,0.0,38,1.1154,4.4322,16.2377
+efficiency comfort,0,0.0,38,1.1154,4.4322,16.2377
+real time decision,1,0.053,56,1.6437,3.9797,16.0902
+language llms,0,0.0,36,1.0566,4.3563,15.7302
+large language llms,0,0.0,36,1.0566,4.3563,15.7302
+collision risks,7,0.3712,123,3.6102,3.101,14.9478
+attention mechanisms,1,0.053,47,1.3795,3.7318,14.4465
+multi scale,1,0.053,46,1.3502,3.7014,14.251
+systematically reviews,0,0.0,30,0.8805,4.101,14.0829
+time decision,2,0.106,57,1.673,3.4198,13.8861
+safety risks,2,0.106,57,1.673,3.4198,13.8861
+remains critical,0,0.0,29,0.8512,4.0537,13.7875
+attention network,0,0.0,29,0.8512,4.0537,13.7875
+fine grained,0,0.0,29,0.8512,4.0537,13.7875
+significantly enhancing,0,0.0,29,0.8512,4.0537,13.7875
+time decision making,2,0.106,56,1.6437,3.3948,13.7252
+address challenges proposes,0,0.0,28,0.8218,4.0048,13.4854
+mixed traffic environments,2,0.106,54,1.585,3.3432,13.3974
+address limitation,0,0.0,27,0.7925,3.9542,13.1761
+multimodal trajectory prediction,0,0.0,27,0.7925,3.9542,13.1761
+environments address,0,0.0,27,0.7925,3.9542,13.1761
+address challenge,3,0.1591,62,1.8198,3.1241,12.9436
+enhancing autonomous,0,0.0,26,0.7631,3.9017,12.8594
+resource constrained,0,0.0,26,0.7631,3.9017,12.8594
+high density,0,0.0,25,0.7338,3.8473,12.5348
+twin delayed,0,0.0,25,0.7338,3.8473,12.5348
+compared baseline,3,0.1591,59,1.7317,3.0537,12.503
+address limitations,4,0.2121,67,1.9665,2.9124,12.2887
+high risk,7,0.3712,93,2.7297,2.7014,12.2733
+dynamic complex,0,0.0,24,0.7044,3.7907,12.2017
+remains challenging due,0,0.0,24,0.7044,3.7907,12.2017
+scenarios address,0,0.0,24,0.7044,3.7907,12.2017
+diverse driving,2,0.106,46,1.3502,3.1165,11.9988
+scenario generation,1,0.053,35,1.0273,3.3168,11.8856
+experiments validate,0,0.0,23,0.6751,3.7318,11.8598
+cross modal,0,0.0,23,0.6751,3.7318,11.8598
+addressing challenges,0,0.0,23,0.6751,3.7318,11.8598
+unlike traditional,0,0.0,23,0.6751,3.7318,11.8598
+safety efficiency,29,1.5376,238,6.9856,2.1408,11.724
+diverse scenarios,1,0.053,34,0.9979,3.2761,11.6477
+often struggle,1,0.053,34,0.9979,3.2761,11.6477
+often fail,1,0.053,34,0.9979,3.2761,11.6477
+safety traffic efficiency,1,0.053,34,0.9979,3.2761,11.6477
+dynamic risk,1,0.053,34,0.9979,3.2761,11.6477
+challenges due,1,0.053,34,0.9979,3.2761,11.6477
+crucial ensuring,0,0.0,22,0.6457,3.6704,11.5085
+generalization capabilities,0,0.0,22,0.6457,3.6704,11.5085
+delayed deep,0,0.0,22,0.6457,3.6704,11.5085
+delayed deep deterministic,0,0.0,22,0.6457,3.6704,11.5085
+twin delayed deep,0,0.0,22,0.6457,3.6704,11.5085
+informed decisions,0,0.0,22,0.6457,3.6704,11.5085
+safety efficiency comfort,0,0.0,22,0.6457,3.6704,11.5085
+fine tuning,0,0.0,22,0.6457,3.6704,11.5085
+designed enhance,0,0.0,22,0.6457,3.6704,11.5085
+ethical considerations,0,0.0,22,0.6457,3.6704,11.5085
+across scenarios,1,0.053,33,0.9686,3.2343,11.4053
+address issues,5,0.2651,68,1.9959,2.6704,11.3067
+traffic environments,18,0.9544,159,4.6669,2.2208,11.2711
+enhancing safety,4,0.2121,59,1.7317,2.7318,11.1849
+operational efficiency,1,0.053,32,0.9392,3.1912,11.1581
+challenges proposes,1,0.053,32,0.9392,3.1912,11.1581
+across four,0,0.0,21,0.6164,3.6063,11.1471
+path optimization,0,0.0,21,0.6164,3.6063,11.1471
+decision making planning,2,0.106,41,1.2034,2.9542,11.0418
+making planning,2,0.106,41,1.2034,2.9542,11.0418
+safety critical scenarios,4,0.2121,58,1.7024,2.7075,11.0401
+decision making capabilities,1,0.053,31,0.9099,3.1468,10.9061
+making capabilities,1,0.053,31,0.9099,3.1468,10.9061
+advancement autonomous,1,0.053,31,0.9099,3.1468,10.9061
+computational efficiency,13,0.6893,120,3.5222,2.2583,10.8305
+cooperative decision,0,0.0,20,0.587,3.5391,10.775
+face significant,0,0.0,20,0.587,3.5391,10.775
+review synthesizes,0,0.0,20,0.587,3.5391,10.775
+out distribution ood,1,0.053,30,0.8805,3.101,10.6489
+distribution ood,1,0.053,30,0.8805,3.101,10.6489
+graph attention,1,0.053,30,0.8805,3.101,10.6489
+enhance robustness,1,0.053,30,0.8805,3.101,10.6489
+address issue proposes,1,0.053,30,0.8805,3.101,10.6489
+real world deployment,1,0.053,30,0.8805,3.101,10.6489
+world deployment,1,0.053,30,0.8805,3.101,10.6489
+safety filter,2,0.106,39,1.1447,2.8838,10.638
+multimodal trajectory,2,0.106,39,1.1447,2.8838,10.638
+crucial role,4,0.2121,55,1.6143,2.6323,10.5958
+ensuring safe,4,0.2121,54,1.585,2.6063,10.4441
+context aware,3,0.1591,46,1.3502,2.7014,10.4009
+critical scenarios,7,0.3712,75,2.2014,2.3948,10.371
+issue proposes,2,0.106,37,1.086,2.8098,10.2209
+feature fusion,2,0.106,37,1.086,2.8098,10.2209
+dynamically adjust,1,0.053,28,0.8218,3.0048,10.1181
+face challenges,1,0.053,28,0.8218,3.0048,10.1181
+pose significant,2,0.106,36,1.0566,2.7713,10.007
+comprehensive review,12,0.6363,103,3.0232,2.1468,9.9707
+significantly enhances,3,0.1591,43,1.2621,2.6063,9.8626
+safety challenges,1,0.053,27,0.7925,2.9542,9.8439
+across multiple,4,0.2121,50,1.4676,2.4973,9.819
+adverse weather,2,0.106,35,1.0273,2.7318,9.7894
+uncertainty aware,11,0.5832,94,2.759,2.1317,9.7076
+trajectory prediction autonomous,4,0.2121,49,1.4382,2.4688,9.6578

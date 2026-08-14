@@ -1,0 +1,41 @@
+layer,theme,label,count,denominator,share_pct
+abstract_reserve,T1_motion_prediction,Motion prediction,942,6604,14.264
+abstract_reserve,T2_planning_decision,Planning & decision,2781,6604,42.111
+abstract_reserve,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,1889,6604,28.604
+abstract_reserve,T4_calibration_statistical,Calibration & statistical guarantees,81,6604,1.227
+abstract_reserve,T5_shift_ood_failure,"Shift, OOD & failure detection",371,6604,5.618
+abstract_reserve,T6_risk_aware_propagation,Risk-aware decision & propagation,779,6604,11.796
+abstract_reserve,T7_runtime_monitor_intervention,Runtime monitoring & intervention,456,6604,6.905
+abstract_reserve,T8_formal_safety_control,Formal safety & control,271,6604,4.104
+abstract_reserve,T9_scenario_testing_validation,Scenario testing & validation,264,6604,3.998
+abstract_reserve,T10_cooperative_multiagent,Cooperative & multi-agent systems,967,6604,14.643
+fulltext_deep_layer,T1_motion_prediction,Motion prediction,45,303,14.851
+fulltext_deep_layer,T2_planning_decision,Planning & decision,176,303,58.086
+fulltext_deep_layer,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,136,303,44.884
+fulltext_deep_layer,T4_calibration_statistical,Calibration & statistical guarantees,7,303,2.31
+fulltext_deep_layer,T5_shift_ood_failure,"Shift, OOD & failure detection",20,303,6.601
+fulltext_deep_layer,T6_risk_aware_propagation,Risk-aware decision & propagation,53,303,17.492
+fulltext_deep_layer,T7_runtime_monitor_intervention,Runtime monitoring & intervention,23,303,7.591
+fulltext_deep_layer,T8_formal_safety_control,Formal safety & control,20,303,6.601
+fulltext_deep_layer,T9_scenario_testing_validation,Scenario testing & validation,17,303,5.611
+fulltext_deep_layer,T10_cooperative_multiagent,Cooperative & multi-agent systems,45,303,14.851
+fulltext_core,T1_motion_prediction,Motion prediction,14,61,22.951
+fulltext_core,T2_planning_decision,Planning & decision,45,61,73.77
+fulltext_core,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,40,61,65.574
+fulltext_core,T4_calibration_statistical,Calibration & statistical guarantees,2,61,3.279
+fulltext_core,T5_shift_ood_failure,"Shift, OOD & failure detection",1,61,1.639
+fulltext_core,T6_risk_aware_propagation,Risk-aware decision & propagation,15,61,24.59
+fulltext_core,T7_runtime_monitor_intervention,Runtime monitoring & intervention,5,61,8.197
+fulltext_core,T8_formal_safety_control,Formal safety & control,5,61,8.197
+fulltext_core,T9_scenario_testing_validation,Scenario testing & validation,3,61,4.918
+fulltext_core,T10_cooperative_multiagent,Cooperative & multi-agent systems,12,61,19.672
+fulltext_contextual,T1_motion_prediction,Motion prediction,31,242,12.81
+fulltext_contextual,T2_planning_decision,Planning & decision,131,242,54.132
+fulltext_contextual,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,96,242,39.669
+fulltext_contextual,T4_calibration_statistical,Calibration & statistical guarantees,5,242,2.066
+fulltext_contextual,T5_shift_ood_failure,"Shift, OOD & failure detection",19,242,7.851
+fulltext_contextual,T6_risk_aware_propagation,Risk-aware decision & propagation,38,242,15.702
+fulltext_contextual,T7_runtime_monitor_intervention,Runtime monitoring & intervention,18,242,7.438
+fulltext_contextual,T8_formal_safety_control,Formal safety & control,15,242,6.198
+fulltext_contextual,T9_scenario_testing_validation,Scenario testing & validation,14,242,5.785
+fulltext_contextual,T10_cooperative_multiagent,Cooperative & multi-agent systems,33,242,13.636

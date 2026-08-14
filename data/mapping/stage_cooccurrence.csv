@@ -1,0 +1,26 @@
+row_stage,row_label,column_stage,column_label,count,share_pct
+S1_risk_signal,Risk / uncertainty signal,S1_risk_signal,Risk / uncertainty signal,2557,37.02
+S1_risk_signal,Risk / uncertainty signal,S2_calibration_semantics,Calibration / statistical semantics,68,0.985
+S1_risk_signal,Risk / uncertainty signal,S3_decision_consumption,Decision consumption / propagation,119,1.723
+S1_risk_signal,Risk / uncertainty signal,S4_runtime_action,Runtime action / intervention,140,2.027
+S1_risk_signal,Risk / uncertainty signal,S5_system_validation,Closed-loop / system validation signal,273,3.953
+S2_calibration_semantics,Calibration / statistical semantics,S1_risk_signal,Risk / uncertainty signal,68,0.985
+S2_calibration_semantics,Calibration / statistical semantics,S2_calibration_semantics,Calibration / statistical semantics,88,1.274
+S2_calibration_semantics,Calibration / statistical semantics,S3_decision_consumption,Decision consumption / propagation,9,0.13
+S2_calibration_semantics,Calibration / statistical semantics,S4_runtime_action,Runtime action / intervention,10,0.145
+S2_calibration_semantics,Calibration / statistical semantics,S5_system_validation,Closed-loop / system validation signal,10,0.145
+S3_decision_consumption,Decision consumption / propagation,S1_risk_signal,Risk / uncertainty signal,119,1.723
+S3_decision_consumption,Decision consumption / propagation,S2_calibration_semantics,Calibration / statistical semantics,9,0.13
+S3_decision_consumption,Decision consumption / propagation,S3_decision_consumption,Decision consumption / propagation,147,2.128
+S3_decision_consumption,Decision consumption / propagation,S4_runtime_action,Runtime action / intervention,6,0.087
+S3_decision_consumption,Decision consumption / propagation,S5_system_validation,Closed-loop / system validation signal,33,0.478
+S4_runtime_action,Runtime action / intervention,S1_risk_signal,Risk / uncertainty signal,140,2.027
+S4_runtime_action,Runtime action / intervention,S2_calibration_semantics,Calibration / statistical semantics,10,0.145
+S4_runtime_action,Runtime action / intervention,S3_decision_consumption,Decision consumption / propagation,6,0.087
+S4_runtime_action,Runtime action / intervention,S4_runtime_action,Runtime action / intervention,479,6.935
+S4_runtime_action,Runtime action / intervention,S5_system_validation,Closed-loop / system validation signal,73,1.057
+S5_system_validation,Closed-loop / system validation signal,S1_risk_signal,Risk / uncertainty signal,273,3.953
+S5_system_validation,Closed-loop / system validation signal,S2_calibration_semantics,Calibration / statistical semantics,10,0.145
+S5_system_validation,Closed-loop / system validation signal,S3_decision_consumption,Decision consumption / propagation,33,0.478
+S5_system_validation,Closed-loop / system validation signal,S4_runtime_action,Runtime action / intervention,73,1.057
+S5_system_validation,Closed-loop / system validation signal,S5_system_validation,Closed-loop / system validation signal,617,8.933

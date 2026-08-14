@@ -1,0 +1,51 @@
+rank,source_title,normalized_source_key,variant_count,count,share_pct
+1,arXiv (Cornell University),arxiv cornell university,1,421,6.095
+2,IEEE Transactions on Intelligent Transportation Systems,ieee transactions on intelligent transportation systems,2,404,5.849
+3,IEEE Access,ieee access,2,279,4.039
+4,IEEE Transactions on Intelligent Vehicles,ieee transactions on intelligent vehicles,2,202,2.925
+5,Sensors,sensors,2,162,2.345
+6,IEEE Transactions on Vehicular Technology,ieee transactions on vehicular technology,2,156,2.259
+7,Accident Analysis & Prevention,accident analysis and prevention,3,143,2.07
+8,IEEE Robotics and Automation Letters,ieee robotics and automation letters,2,137,1.983
+9,Transportation Research Part C Emerging Technologies,transportation research part c emerging technologies,3,94,1.361
+10,Applied Sciences,applied sciences,1,81,1.173
+11,Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering,proceedings of the institution of mechanical engineers part d journal of automobile engineering,3,80,1.158
+12,IEEE Internet of Things Journal,ieee internet of things journal,2,66,0.956
+13,Electronics,electronics,2,57,0.825
+14,IFAC-PapersOnLine,ifac papersonline,1,55,0.796
+15,"IEEE Intelligent Vehicles Symposium, Proceedings",ieee intelligent vehicles symposium proceedings,1,49,0.709
+16,IET Intelligent Transport Systems,iet intelligent transport systems,2,45,0.652
+17,Proceedings - IEEE International Conference on Robotics and Automation,proceedings ieee international conference on robotics and automation,1,39,0.565
+18,World Electric Vehicle Journal,world electric vehicle journal,1,35,0.507
+19,IEEE Transactions on Automation Science and Engineering,ieee transactions on automation science and engineering,2,34,0.492
+20,IEEE Open Journal of Intelligent Transportation Systems,ieee open journal of intelligent transportation systems,1,34,0.492
+21,SAE Technical Papers,sae technical papers,1,33,0.478
+22,Sustainability,sustainability,2,33,0.478
+23,Transportation Research Part F Traffic Psychology and Behaviour,transportation research part f traffic psychology and behaviour,3,30,0.434
+24,Scientific Reports,scientific reports,2,29,0.42
+25,IEEE Transactions on Robotics,ieee transactions on robotics,2,28,0.405
+26,SSRN Electronic Journal,ssrn electronic journal,1,28,0.405
+27,EXPERT SYSTEMS WITH APPLICATIONS,expert systems with applications,2,27,0.391
+28,Ocean Engineering,ocean engineering,2,27,0.391
+29,IEEE Sensors Journal,ieee sensors journal,2,25,0.362
+30,Applied Sciences (Switzerland),applied sciences switzerland,1,25,0.362
+31,Lecture Notes in Electrical Engineering,lecture notes in electrical engineering,1,25,0.362
+32,Journal of Advanced Transportation,journal of advanced transportation,2,25,0.362
+33,IEEE Transactions on Control Systems Technology,ieee transactions on control systems technology,2,24,0.347
+34,Transportation Research Record Journal of the Transportation Research Board,transportation research record journal of the transportation research board,1,24,0.347
+35,Electronics (Switzerland),electronics switzerland,1,23,0.333
+36,IEEE Intelligent Transportation Systems Magazine,ieee intelligent transportation systems magazine,2,22,0.319
+37,IEEE Transactions on Pattern Analysis and Machine Intelligence,ieee transactions on pattern analysis and machine intelligence,2,22,0.319
+38,2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC),2023 ieee 26th international conference on intelligent transportation systems itsc,1,21,0.304
+39,SAE International Journal of Connected and Automated Vehicles,sae international journal of connected and automated vehicles,1,21,0.304
+40,2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC),2025 ieee 28th international conference on intelligent transportation systems itsc,1,20,0.29
+41,IEEE Transactions on Neural Networks and Learning Systems,ieee transactions on neural networks and learning systems,2,20,0.29
+42,Transportmetrica A Transport Science,transportmetrica a transport science,2,19,0.275
+43,IEEE Transactions on Systems Man and Cybernetics Systems,ieee transactions on systems man and cybernetics systems,2,18,0.261
+44,2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),2025 ieee rsj international conference on intelligent robots and systems iros,1,18,0.261
+45,Research Square,research square,1,18,0.261
+46,2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC),2024 ieee 27th international conference on intelligent transportation systems itsc,1,17,0.246
+47,Qiche Gongcheng/Automotive Engineering,qiche gongcheng automotive engineering,1,17,0.246
+48,IEEE Transactions on Transportation Electrification,ieee transactions on transportation electrification,2,17,0.246
+49,Traffic Injury Prevention,traffic injury prevention,2,17,0.246
+50,Zhongguo Gonglu Xuebao/China Journal of Highway and Transport,zhongguo gonglu xuebao china journal of highway and transport,1,17,0.246

@@ -1,0 +1,18 @@
+stage_id,stage,count,relationship,evidence_role
+S01,raw_database_hits,30234,query-level total,identification
+S02,canonical_records_after_deduplication,19732,30234 - 10502,identification
+S03,records_title_abstract_screened,19707,19732 - 25 nonpreferred versions,screening
+S04,database_candidates,3585,1703 included + 1882 unresolved retained,screening
+S05,citation_tracking_candidates,5520,6413 topic-screened - 893 excluded,screening
+S06,merged_record_level_candidates,9105,3585 + 5520,eligibility
+S07,baseline_unique_studies,9001,9105 - 104 nonpreferred duplicate/version records,eligibility
+S08,full_text_reports_assessed,516,successfully retrieved and verified; 295 eligible + 221 excluded-neighbor,eligibility
+S08a,baseline_full_text_eligible,295,eligible after full-text assessment,eligibility
+S08b,full_text_excluded_neighbor,221,excluded after full-text boundary assessment,exclusion
+S09,title_abstract_metadata_only_assessed,8485,disposed from title abstract and metadata; 6604 retained + 1881 excluded,eligibility
+S10,eligible_studies_identified_by_other_methods,8,4 core + 4 contextual,eligibility
+S11,all_unique_studies_disposed,9009,9001 + 8,corpus
+S12,wide_review_corpus,6907,303 full-text evidence + 6604 abstract-level mapping,corpus
+S13,full_text_evidence_studies,303,61 core + 242 contextual,mechanism and guarantee synthesis
+S14,abstract_level_mapping_studies,6604,no formal core/contextual adjudication,landscape mapping only
+S15,excluded_studies,2102,221 full-text neighbor + 1881 abstract/material exclusion,exclusion

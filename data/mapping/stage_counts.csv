@@ -1,0 +1,6 @@
+group,key,label,count,denominator,share_pct
+all,S1_risk_signal,Risk / uncertainty signal,2557,6907,37.02
+all,S2_calibration_semantics,Calibration / statistical semantics,88,6907,1.274
+all,S3_decision_consumption,Decision consumption / propagation,147,6907,2.128
+all,S4_runtime_action,Runtime action / intervention,479,6907,6.935
+all,S5_system_validation,Closed-loop / system validation signal,617,6907,8.933

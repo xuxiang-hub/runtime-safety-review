@@ -1,0 +1,9 @@
+group,key,label,count,denominator,share_pct
+all,M1_bayesian_ensemble,Bayesian / ensemble,278,6907,4.025
+all,M2_generative_multimodal,Generative / multimodal,151,6907,2.186
+all,M3_conformal,Conformal prediction,54,6907,0.782
+all,M4_mpc_chance,MPC / chance constraints,570,6907,8.252
+all,M5_cbf_reachability,CBF / reachability,212,6907,3.069
+all,M6_reinforcement_learning,Reinforcement learning,1178,6907,17.055
+all,M7_transformer_gnn,Transformer / GNN,314,6907,4.546
+all,M8_formal_verification,Formal verification,80,6907,1.158

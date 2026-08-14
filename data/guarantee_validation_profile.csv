@@ -1,0 +1,304 @@
+study_id,title,year,formal_corpus_role,statistical_guarantee_strength_final,statistical_guarantee_family_final,formal_control_guarantee_final,validation_maturity_final,closed_loop_evaluation,hardware_or_road_test,multiagent_evaluation,online_latency_reported,transportation_impact_reported
+HAND-S13,Ranging from Prediction to Planning via Machine Learning Approaches for Autonomous Driving: A Survey,2026,contextual,G0,none,none,V0,no,no,no,no,no
+HAND-T11,In-Distribution Barrier Functions: Self-Supervised Policy Filters that Avoid Out-of-Distribution States,2023,contextual,G0,none,none,V3,yes,no,no,no,no
+HAND-T13,Adaptive Conformal Prediction for Motion Planning among Dynamic Agents,2023,contextual,G4,sequential_or_time_uniform,hybrid-statistical-formal,V3,yes,no,no,no,no
+HAND-T14,"Heterogeneous Predictor-based Risk-Aware Planning with Conformal Prediction in Dense, Uncertain Environments",2026,contextual,G3,joint_multiagent,hybrid-statistical-formal,V2,no,no,no,yes,no
+REC-014E89FBE24D,Autonomous vehicles in mixed-autonomy traffic: game theoretic human-like decision making countermeasures,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-016C15AEE33F,"Distribution shift, generalization and OOD challenge in offline reinforcement learning: a comprehensive survey: Distribution shift, generalization and OOD challenge in offline RL...",2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-019334CD9E57,INTERPRETABLE DEEP REINFORCEMENT LEARNING FOR AUTONOMOUS SYSTEMS: INTEGRATING CAUSAL INFERENCE WITH POLICY GRADIENTS,2025,contextual,G0,none,none,V0,no,no,yes,yes,no
+REC-02FAE5132592,Multiple vehicle cooperation and collision avoidance in automated vehicles: survey and an AI-enabled conceptual framework,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-059366A50CDB,A Survey on Cyber-Physical Security of Autonomous Vehicles Using a Context Awareness Method,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-07B15F68212B,The Road to Safe Automated Driving Systems: A Review of Methods Providing Safety Evidence,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-082EA594CC67,Partially Observable Markov Decision Processes in Robotics: A Survey,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-0A5B6962EB3F,Pedestrian Collision Avoidance System for Scenarios with Occlusions,2019,contextual,G0,none,none,V3,yes,no,yes,no,no
+REC-0AE457EC30BF,Long-term safe reinforcement learning with binary feedback,2024,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-15CF4A976397,Online and Predictive Warning System for Forced Lane Changes Using Risk Maps,2022,contextual,G0,none,none,V2,no,no,yes,no,no
+REC-15D1BC44F7B3,Review of Computational Techniques for Modelling Eco-Safe Driving Behavior,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-176B8DE53EC0,Runtime Monitoring and Fault Detection for Neural Network-Controlled Systems,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-1885100AF364,Gaussian Process Based Model Predictive Control for Overtaking in Autonomous Driving,2021,contextual,G0,none,none,V2,no,no,no,no,no
+REC-1B3C8BA03BF5,An Efficient Reachability-Based Framework for Provably Safe Autonomous Navigation in Unknown Environments,2019,contextual,G0,none,reachability,V3,yes,no,no,no,no
+REC-1B634123421E,"Risk perception and quantitative assessment for intelligent vehicles: a systematic review of methodologies, policy implications, and transportation systems integration",2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-1C01087E366D,Socially-Compatible Behavior Design of Autonomous Vehicles With Verification on Real Human Data,2021,contextual,G0,none,none,V2,no,no,yes,no,no
+REC-1D39C2058D0E,Fluid-inspired field representation for risk assessment in road scenes,2020,contextual,G0,none,none,V0,no,no,yes,no,no
+REC-1D725BDAB411,Influencing Factors of Driving Decision-Making Under the Moral Dilemma,2019,contextual,G0,none,none,V3,yes,no,yes,no,no
+REC-21321C5E86FF,Joint Out-of-Distribution Detection and Uncertainty Estimation for Trajectory Prediction,2023,contextual,G0,none,none,V1,no,no,no,yes,no
+REC-2454AE469195,"The Application of Driver Models in the Safety Assessment of Autonomous Vehicles: Perspectives, Insights, Prospects",2024,contextual,G0,none,none,V1,no,no,no,no,no
+REC-278C14063EAD,Physics enhanced residual policy learning (PERPL) for safety cruising in mixed traffic platooning under actuator and communication delay,2026,contextual,G0,none,none,V3,yes,no,yes,no,no
+REC-27A50BC81C4A,Safe Speed Control and Collision Probability Estimation Under Ego-Pose Uncertainty for Autonomous Vehicle,2020,contextual,G0,none,none,V3,yes,no,yes,no,no
+REC-29E5D30A5B07,A Comprehensive Survey on Cooperative Intersection Management for Heterogeneous Connected Vehicles,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-2A4B3F035434,Corner Case Detection and Generation for Autonomous Driving: An Overview,2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-2B662C3AA4B4,Impact of ADAS and V2X Penetration Rates on Cooperative Active Safety,2025,contextual,G0,none,none,V3,yes,no,yes,yes,no
+REC-2D7135EE209D,VTGNet: A Vision-Based Trajectory Generation Network for Autonomous Vehicles in Urban Environments,2021,contextual,G0,none,none,V1,no,no,yes,no,no
+REC-2E8426AC5C59,Path planning algorithms in the autonomous driving system: A comprehensive review,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-2EC41680B549,Machine Learning-Based Road Safety Prediction Strategies for Internet of Vehicles (IoV) Enabled Vehicles: A Systematic Literature Review,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-2F5A73478398,Software Verification and Validation of Safe Autonomous Cars: A Systematic Literature Review,2021,contextual,G0,none,none,V0,no,no,no,no,no
+REC-2F68EF300184,Understanding responsibility under uncertainty: A critical and scoping review of autonomous driving systems,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-30BCADC6E2F9,Toward Safer Autonomous Vehicles: Occlusion-Aware Trajectory Planning to Minimize Risky Behavior,2023,contextual,G0,none,none,V3,yes,no,yes,no,no
+REC-323481C715C3,Exploration of the intelligent control system of autonomous vehicles based on edge computing,2023,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-33A58BD4D0BB,Improving intelligent perception and decision optimization of pedestrian crossing scenarios in autonomous driving environments through large visual language models,2025,contextual,G0,none,none,V0,no,no,yes,no,no
+REC-33B5757F9BD8,Survey of testing techniques of autonomous driving software; [自动驾驶软件测试技术研究综述],2021,contextual,G0,none,none,V0,no,no,no,no,no
+REC-341452D01FD7,Microwave Sensing for Avoidance of High-Risk Ground Conditions for Mobile Robots,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-344249EF4A22,Autonomous Collision Avoidance at Sea: A Survey,2021,contextual,G0,none,none,V0,no,no,no,no,no
+REC-3576C51171A4,Research Trends in Road Safety (2013-2023): A Bibliometric Review Using Science Mapping Techniques on Human and Technological Factors,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-3705430C7E45,A review on motion sickness of autonomous driving vehicles,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-39FF90A95A68,A review of learning-based motion planning: toward a data-driven optimal control approach,2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-3B3544F5DB24,Adaptive nonlinear model predictive control: maximizing tire force and obstacle avoidance in autonomous vehicles,2023,contextual,G0,none,recursive-feasibility,V2,no,no,no,no,no
+REC-3B84190C7D8C,RACP: Risk-Aware Contingency Planning With Multi-Modal Predictions,2025,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-411A41BF9DAB,Bidirectional Long Shot-Term Memory-Based Interactive Motion Prediction of Cut-In Vehicles in Urban Environments,2020,contextual,G0,none,none,V2,no,no,no,no,no
+REC-42318CA19337,A survey on interpretable reinforcement learning,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-42AEED7C2C15,An Intention-Driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-Traffic Environments,2026,contextual,G0,none,none,V2,no,no,no,no,no
+REC-432F9A8FF229,Safe and Nonconservative Contingency Planning for Autonomous Vehicles via Online Learning-Based Reachable Set Barriers,2026,contextual,G0,none,reachability,V3,yes,no,no,yes,no
+REC-438D6D612838,Review of Learning-Based Longitudinal Motion Planning for Autonomous Vehicles: Research Gaps Between Self-Driving and Traffic Congestion,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-449930AF5C64,Solutions for building a system to support motion control for autonomous vehicle,2020,contextual,G0,none,none,V3,yes,no,yes,no,no
+REC-4A6B58DB92EA,Takeover performance evaluation using driving simulation: a systematic review and meta-analysis,2021,contextual,G0,none,none,V0,no,no,no,no,no
+REC-4CB6A640722D,Model Predictive Instantaneous Safety Metric for Evaluation of Automated Driving Systems,2020,contextual,G0,none,none,V1,no,no,yes,no,no
+REC-4DD6BC0D5EA3,Criticality Metrics for Automated Driving: A Review and Suitability Analysis of the State of the Art,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-4DF382BE985A,T⋆-Lite: A Fast Time-Risk Optimal Motion Planning Algorithm for Multi-Speed Autonomous Vehicles,2020,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-4F84A4DEACD7,The review of image processing and edge computing for intelligent transportation system; [面向智慧交通的图像处理与边缘计算],2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-506260C0A093,"Vehicle Trajectory Prediction for Autonomous Driving Applications: State-of-the-Art Review, Research Challenges, and Future Directions",2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-51E5786B30B6,Uncertainty-Aware Roundabout Navigation: A Switched Decision Framework Integrating Stackelberg Games and Dynamic Potential Fields,2026,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-5296C7BD8C12,The Unscented Kalman Filter for Nonlinear Parameter Identification of Adaptive Cruise Control Systems,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-543DFDF9BE0A,Hybrid cooperative intersection management for connected automated vehicles and pedestrians,2023,contextual,G0,none,none,V2,no,no,yes,no,yes
+REC-548D096BC17D,Neuro-Symbolic Reinforcement Learning for Context-Aware Decision Making in Safe Autonomous Vehicles,2025,contextual,G0,none,none,V2,no,no,yes,no,no
+REC-583E492766C4,Vehicle Dynamics and Cooperative Driving Enhanced by Multi-Agent V2V Communication,2025,contextual,G0,none,none,V2,no,no,yes,yes,no
+REC-5AD62284D37E,A Survey of Cooperative Driving between Auxiliary Autonomous System and Human Driver,2018,contextual,G0,none,none,V0,no,no,no,no,no
+REC-5B368F243476,Mean-Semivariance Policy Optimization via Risk-Averse Reinforcement Learning,2022,contextual,G0,none,none,V1,no,no,no,no,no
+REC-5DCF6833EF84,Motion Planning Under Uncertainty with Complex Agents and Environments via Hybrid Search (Extended Abstract),2023,contextual,G0,none,chance-constrained-control,V3,yes,no,no,no,no
+REC-5E16ADC1A42D,Collision Avoidance/Mitigation System: Motion Planning of Autonomous Vehicle via Predictive Occupancy Map,2019,contextual,G0,none,none,V3,yes,no,yes,no,no
+REC-5F3EA53E8B4F,"Deep learning for autonomous driving systems: technological innovations, strategic implementations, and business implications-a comprehensive review",2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-6187B5EAC288,"Risk assessment in autonomous driving: a comprehensive survey of risk sources, methodologies, and system architectures",2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-658EE3E981A6,Deep Predictive Models for Collision Risk Assessment in Autonomous Driving,2018,contextual,G0,none,none,V1,no,no,yes,no,no
+REC-661ABCDFE223,Enhancing autonomous systems with bayesian neural networks: a probabilistic framework for navigation and decision-making,2025,contextual,G1,empirical_confidence,none,V1,no,no,yes,no,no
+REC-68ABFB9F39BF,E2ETrADS: end-to-end transformer based autonomous driving system for adverse weather conditions,2026,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-694FFC072C01,Risk-Aware High-level Decisions for Automated Driving at Occluded Intersections with Reinforcement Learning,2020,contextual,G0,none,none,V3,yes,no,yes,no,no
+REC-6A0B6488035C,Advancing autonomy through lifelong learning: a survey of autonomous intelligent systems,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-6D47375A1E62,Learning from Demonstrations of Critical Driving Behaviours Using Driver's Risk Field,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-6FDBDFE6B39F,UniMM-V2X: MoE-enhanced multi-level fusion for end-to-end cooperative autonomous driving,2026,contextual,G0,none,none,V2,no,no,yes,no,no
+REC-73C531FD085F,A survey of decision-making and planning methods for self-driving vehicles,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-754FD1E904BD,Research progress of automatic driving control technology based on reinforcement learning; [强化学习的自动驾驶控制技术研究进展],2021,contextual,G0,none,none,V0,no,no,no,no,no
+REC-75872B975877,Automatically Learning Fallback Strategies with Model-Free Reinforcement Learning in Safety-Critical Driving Scenarios,2022,contextual,G0,none,none,V1,no,no,no,no,no
+REC-76A848CFA8FC,A visual approach towards forward collision warning for autonomous vehicles on Malaysian public roads,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-77684089612E,TRUST-Planner: Topology-Guided Robust Trajectory Planner for AAVs With Uncertain Obstacle Spatial-Temporal Avoidance,2026,contextual,G0,none,none,V3,yes,no,yes,yes,no
+REC-79AA80438DA9,Estimating the probabilities of surrounding vehicles' intentions and trajectories using a behavior planner,2019,contextual,G0,none,none,V1,no,no,no,no,no
+REC-7A79447D74C7,Driving Environment Uncertainty-Aware Motion Planning for Autonomous Vehicles,2022,contextual,G0,none,none,V2,no,no,yes,no,no
+REC-7C028D4EAF39,Enhancing autonomous vehicle safety with knowledge graphs and large language models: Comprehensive review,2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-7DE1A0D06FFC,Safety verification of nonlinear systems with Bayesian neural network controllers,2023,contextual,G0,none,none,V1,no,no,no,no,no
+REC-814022DDBEA7,Online Safety Verification of Autonomous Driving Decision-Making Based on Dynamic Reachability Analysis,2023,contextual,G0,none,reachability,V3,yes,no,yes,no,no
+REC-824D862293D3,Trajectory planning for autonomous driving: a survey; [自动驾驶轨迹规划综述],2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-83E9013CBB0A,A Generalized Control Revision Method for Autonomous Driving Safety,2025,contextual,G0,none,conditional-invariance,V2,no,no,no,no,no
+REC-84D3FCDBB0C2,Evaluating Scenario-Based Decision-Making for Interactive Autonomous Driving Using Rational Criteria: A Survey,2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-85455E053DAA,Situation-Aware Drivable Space Estimation for Automated Driving,2022,contextual,G0,none,none,V1,no,no,yes,no,no
+REC-86CED6841598,NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments,2024,contextual,G0,none,none,V2,no,no,no,no,no
+REC-870B583097C6,How Far Ahead Should Autonomous Vehicles Start Resolving Predicted Conflicts? Exploring Uncertainty-Based Safety-Efficiency Trade-Off,2024,contextual,G0,none,none,V1,no,no,yes,no,yes
+REC-87FD53E96104,Safety Testing of Automated Driving Systems: A Literature Review,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-9071FA6557C6,Probabilistic Risk Metric for Highway Driving Leveraging Multi-Modal Trajectory Predictions,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-945A0D91C7D6,Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-95D202332013,Optimization-based Approaches for Traffic and Fleet Management of Connected and Autonomous Vehicles: A Systematic Literature Review,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-962B5D27BF19,Human motion trajectory prediction: a survey,2020,contextual,G0,none,none,V0,no,no,no,no,no
+REC-97BBABCF38F6,Sensor Fusion Models in Autonomous Systems: A Review,2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-983FD79D8A93,Uncertainty Quantification for Safety of the Intended Functionality of Autonomous Driving: A Comprehensive Survey,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-994CC298B0A3,A Survey of Autonomous Driving: Common Practices and Emerging Technologies,2020,contextual,G0,none,none,V0,no,no,no,no,no
+REC-9C59C0230BD4,Unravelling uncertainty in trajectory prediction using a non-parametric approach,2024,contextual,G0,none,none,V1,no,no,no,no,no
+REC-9D9266390296,Motion Planning Under Uncertainty with Complex Agents and Environments via Hybrid Search,2022,contextual,G0,none,chance-constrained-control,V3,yes,no,no,no,no
+REC-9DC82EA7E66A,Information fusion for online estimation of the behavior of traffic participants using belief function theory,2023,contextual,G0,none,none,V1,no,no,yes,no,no
+REC-9F3F4762676B,Towards Safe Autonomous Driving: Decision Making with Observation-Robust Reinforcement Learning,2023,contextual,G0,none,none,V1,no,no,no,no,no
+REC-A11DB2CAADE7,Modeling and Verification of Autonomous Driving Systems under Stochastic Spatio-Temporal Constraints,2023,contextual,G0,none,none,V2,no,no,no,no,no
+REC-A6A1BB6B5AC7,Traffic-Rule-Compliant Trajectory Repair via Satisfiability Modulo Theories and Reachability Analysis,2025,contextual,G0,none,reachability,V3,yes,no,no,no,no
+REC-A95EF5CA96E5,Recent Advances in Interactive Driving of Autonomous Vehicles: Comprehensive Review of Approaches,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-A99A45B5CC5A,Predictive Collision Management for Time and Risk Dependent Path Planning,2020,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-AC4B5A604165,A Survey of Deep RL and IL for Autonomous Driving Policy Learning,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-AD86686B81FE,Motion Planning for Urban Autonomous Bus Considering Localization Uncertainty Using Offset-Free MPC,2024,contextual,G0,none,none,V3,yes,no,no,yes,no
+REC-AF0142CDA35B,The Safety Filter: A Unified View of Safety-Critical Control in Autonomous Systems,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-B1635B3C3FCD,A Risk and Comfort Optimizing Motion Planning Scheme for Merging Scenarios<sup>*</sup>,2019,contextual,G0,none,none,V2,no,no,no,no,no
+REC-B2FE86B09D9B,Planning and Decision-making for Connected Autonomous Vehicles at Road Intersections: A Review,2021,contextual,G0,none,none,V0,no,no,no,no,no
+REC-B42A968C9051,"Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives",2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-B58AAB1ACB77,A Comprehensive Review on Deep Learning-Based Motion Planning and End-to-End Learning for Self-Driving Vehicle,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-B5AF8F04F225,Resilient Branching MPC for Multi-Vehicle Traffic Scenarios Using Adversarial Disturbance Sequences,2022,contextual,G0,none,none,V2,no,no,no,no,no
+REC-B7A254EE9E09,Key Indicators to Assess the Performance of LiDAR-Based Perception Algorithms: A Literature Review,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-B8F2336B2414,Safety Assurance of Artificial Intelligence-Based Systems: A Systematic Literature Review on the State of the Art and Guidelines for Future Work,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-B953BF596F1B,Controller Synthesis for Autonomous Systems With Deep-Learning Perception Components,2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-BBB7B002A627,Deep learning adversarial attacks and defenses in autonomous vehicles: a systematic literature review from a safety perspective,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-BBC5EE330736,Location Anomalies Detection for Connected and Autonomous Vehicles,2019,contextual,G0,none,none,V0,no,no,no,no,no
+REC-BC144FE30C2E,Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles,2026,contextual,G4,other_sequential_detection,none,V1,no,no,yes,no,yes
+REC-BCCC62E93330,Representing the Unknown – Impact of Uncertainty on the Interaction between Decision Making and Trajectory Generation,2018,contextual,G0,none,none,V2,no,no,yes,no,no
+REC-BD495C2125B9,Advancing Autonomous Vehicle Safety: A Combined Fault Tree Analysis and Bayesian Network Approach,2025,contextual,G0,none,none,V1,no,no,no,no,no
+REC-BD80DB2D55F9,A Review of Virtual Reality Studies on Autonomous Vehicle–Pedestrian Interaction,2021,contextual,G0,none,none,V0,no,no,no,no,no
+REC-BF5EACA3A6B4,Ensuring safe operation of autonomous vehicle: A comprehensive survey of Operational Design Condition,2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-C2C3D9321180,SICNav-Diffusion: Safe and Interactive Crowd Navigation With Diffusion Trajectory Predictions,2025,contextual,G0,none,none,V2,no,no,yes,no,no
+REC-C37C35C3648E,A Survey on Trajectory-Prediction Methods for Autonomous Driving,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-C37C7E064F9E,Risk-aware local traffic safety evaluation for autonomous new energy vehicles based on virtual force modeling,2025,contextual,G0,none,none,V0,no,no,yes,no,no
+REC-C42F624D3E4E,Anomaly Detection in Autonomous Driving: A Survey,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-C5A09074C86C,Evaluation of a sampling approach for computationally efficient uncertainty quantification in regression learning models,2022,contextual,G0,none,none,V2,no,no,no,no,no
+REC-C8A503DEB1A6,Verification of Autonomous Neural Car Control with KeYmaera X,2026,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-C9FCEA73D17B,Deep Learning-Based Vehicle Behavior Prediction for Autonomous Driving Applications: A Review,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-CC46E2A132C5,Detecting Adversarial Examples in Learning-Enabled Cyber-Physical Systems using Variational Autoencoder for Regression,2020,contextual,G4,other_sequential_detection,none,V1,no,no,no,no,yes
+REC-CD6728B29563,"AI Safety Assurance for Automated Vehicles: A Survey on Research, Standardization, Regulation",2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-D1B6AC586E97,"Trajectory prediction for autonomous driving: Progress, limitations, and future directions",2026,contextual,G0,none,none,V1,no,no,yes,yes,no
+REC-D25B4223D984,Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-D30CBCFFC729,Evaluating Model-Free Reinforcement Learning toward Safety-Critical Tasks,2023,contextual,G0,none,none,V2,no,no,no,no,no
+REC-D3285D36BB71,Self-driving cars: A survey,2021,contextual,G0,none,none,V0,no,no,no,no,no
+REC-D6170F946801,Collision Risk Assessment for Intelligent Vehicles Considering Multi-Dimensional Uncertainties,2024,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-DADF6AD5D49E,A Risk-Based Decision-Making Process for Autonomous Trains Using POMDP: Case of the Anti-Collision Function,2024,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-DDD66C2F6643,A comprehensive review of machine learning approaches for decision-making in autonomous vehicles collision avoidance systems,2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-E0276E8AF621,Efficient and Balanced Exploration-Driven Decision Making for Autonomous Racing Using Local Information,2025,contextual,G0,none,none,V1,no,no,no,no,no
+REC-E096D9479F54,Towards Learning Multi-Agent Negotiations via Self-Play,2019,contextual,G0,none,none,V0,no,no,no,no,no
+REC-E194B487783E,BarrierNet: Differentiable Control Barrier Functions for Learning of Safe Robot Control,2023,contextual,G0,none,conditional-invariance,V2,no,no,no,no,no
+REC-E34AAA52D18A,Towards agents that exhibit human-like autonomy in complex environments,2026,contextual,G0,none,none,V0,no,no,yes,no,no
+REC-E38958CDA9EE,An Overview of Decision-Making in Autonomous Vehicles,2023,contextual,G0,none,none,V0,no,no,no,no,no
+REC-E5146C327905,Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles,2022,contextual,G0,none,none,V0,no,no,no,no,no
+REC-E5553483E407,Safe Policy Improvement in Constrained Markov Decision Processes,2022,contextual,G0,none,none,V2,no,no,no,no,no
+REC-EA3EEB07432F,Risks of applying deep learning in autonomous vehicle systems: a literature review; [Riesgos de la aplicación de deep learning en sistemas de vehículos autónomos: revisión de la literatura],2024,contextual,G0,none,none,V0,no,no,no,no,no
+REC-EB898A34B59D,"Fast, Safe and Robust Motion Planning for Autonomous Vehicles Based on Robust Control Invariant Tubes",2025,contextual,G0,none,robust-invariance,V3,yes,no,no,no,no
+REC-EC403A2F36EC,Human-AI Collaborative Systems: Cognitive Computing Approaches for Enhancing User Interaction and Decision Support,2026,contextual,G0,none,none,V2,no,no,no,no,no
+REC-F0C13FDC8C78,Intention Prediction-Based Automated Vehicle Control Mechanism Using Social-Pooling LSTM and Pass-Through Time Window Optimization,2026,contextual,G0,none,none,V0,no,no,yes,no,yes
+REC-F11C458CB12E,A Comparative Analysis of Deep Reinforcement Learning-Enabled Freeway Decision-Making for Automated Vehicles,2024,contextual,G0,none,none,V3,yes,no,yes,no,yes
+REC-F242B962407C,Decision-Making Under Deception at Intersections: A Bayesian Game Approach,2025,contextual,G0,none,none,V3,yes,no,no,no,no
+REC-F4145481C313,A review of vehicle lane change decisions in human–machine mixed driving environments,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-F70A4FFF17FE,Piecewise linear transformation - propagating aleatoric uncertainty in neural networks,2024,contextual,G0,none,none,V2,no,no,no,no,no
+REC-FE2331CF1F8B,Autonomous Driving Ethics: from Trolley Problem to Ethics of Risk,2021,contextual,G0,none,none,V2,no,no,no,no,no
+REC-FEB4013AEAAA,AI on the Road - A Review of Technologies Enhancing Urban Traffic Safety and Efficiency,2025,contextual,G0,none,none,V0,no,no,no,no,no
+REC-FFB267C0CAA5,Learning-Based Risk-Perception Strategies for Intelligent Co-Control of Energy Efficiency and Safety in Autonomous Driving: A Survey,2026,contextual,G0,none,none,V0,no,no,no,no,no
+REC-FFEADFB89C64,A Possibilistic Risk Assessment Framework for Unmanned Electric Vehicles With Predict of Uncertainty Traffic,2022,contextual,G0,none,none,V1,no,no,yes,no,no
+SNOW-00540B82BF4A,Decision-making in driver-automation shared control: A review and perspectives,2020,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-046DF2FE5D0B,Behavioral event detection and rate estimation for autonomous vehicle evaluation,2023,contextual,G0,none,none,V1,no,no,no,no,no
+SNOW-07AF619A2B26,Enhancing Safety and Efficiency in Automated Container Terminals: Route Planning for Hazardous Material AGV Using LSTM Neural Network and Deep Q-Network,2024,contextual,G0,none,none,V2,no,no,yes,no,no
+SNOW-0967EC66E055,Interactive Multi-Modal Motion Planning With Branch Model Predictive Control,2022,contextual,G0,none,none,V3,yes,no,yes,no,no
+SNOW-0C8A8132D518,Multimodal Manoeuvre and Trajectory Prediction for Automated Driving on Highways Using Transformer Networks,2023,contextual,G0,none,none,V1,no,no,no,no,no
+SNOW-0ED708C1CE95,Design of Real-time Pedestrian Trajectory Prediction System based on Jetson Xavier,2023,contextual,G0,none,none,V3,yes,no,yes,no,no
+SNOW-122DEA75C8E3,"Safety Engineering and Communication System for Autonomous Vehicles: A Review, Challenges and Solutions",2022,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-14BFAFA28EF6,A Review of Motion Planning Algorithms for Autonomous-driving Vehicles: Advanced Technologies and Future Developments,2025,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-15B5961F0294,Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions,2020,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-1AF553C77551,Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic,2019,contextual,G0,none,none,V1,no,no,yes,no,no
+SNOW-1E57B7758D0B,Verifying Controllers With Vision-Based Perception Using Safe Approximate Abstractions,2022,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-1EF8AFD894A5,Pedestrian Behavior Prediction Using Deep Learning Methods for Urban Scenarios: A Review,2023,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-20B231EEF992,Pedestrians and Cyclists’ Intention Estimation for the Purpose of Autonomous Driving,2023,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-2778EE93270D,Transformer-based human-motion forecasting coupled with safe reinforcement learning for telepresence robot co-navigation,2026,contextual,G0,none,conditional-invariance,V3,yes,no,yes,no,no
+SNOW-28F9F805A78A,Coverage based testing for V&amp;V and Safety Assurance of Self-driving Autonomous Vehicles: A Systematic Literature Review,2020,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-2A6C1F68AB45,A Survey of End-to-End Driving: Architectures and Training Methods,2020,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-2DC964CD1DAA,A review of decision-making frameworks for autonomous vehicles,2024,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-2DC99FDA76CE,Toward Human-Centered Design of Automated Vehicles: A Naturalistic Brake Policy,2021,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-30E53555E6C3,Autonomous Vehicle Speed Control for Safe Navigation of Occluded Pedestrian Crosswalk,2018,contextual,G0,none,none,V2,no,no,yes,no,no
+SNOW-328550739727,A Review of Research on Traffic Conflicts Based on Intelligent Vehicles,2020,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-394F124828C7,Method of Improving Machine Learning Model for Speed Decision on Community Roads by Extracting Potentially Dangerous Spots,2026,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-3BB420ECE91E,"Neuroergonomic evaluation of risk-warning eHMI penetration rates in vehicle platoons: effects on pedestrians’ mental workload, situation awareness, and gap acceptance",2026,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-4393A54C62B6,Practical Solutions for Machine Learning Safety in Autonomous Vehicles,2019,contextual,G0,none,none,V1,no,no,no,no,no
+SNOW-44F9A5E29F57,Probabilistic Safety Guarantees for Markov Decision Processes,2023,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-4AC3A6AE885D,"A systematic review of factors, data sources, and prediction techniques for earlier prediction of traffic collision using AI and machine Learning",2024,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-4B0D84B66259,A Combined Reinforcement Learning and Model Predictive Control for Car-Following Maneuver of Autonomous Vehicles,2023,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-50CB856E3C15,"Decision-Making Technology for Autonomous Vehicles Learning-Based Methods, Applications and Future Outlook",2021,contextual,G0,none,none,V1,no,no,yes,no,no
+SNOW-50CCE479F2D1,A survey on driving behavior analysis in usage based insurance using big data,2019,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-520DB79DA5C9,Network-Level Safety Metrics for Overall Traffic Safety Assessment: A Case Study,2022,contextual,G0,none,none,V0,no,no,no,yes,no
+SNOW-559B3C87FEF2,"Safe, efficient, and comfortable velocity control based on reinforcement learning for autonomous driving",2020,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-592F636249A4,Uncertainty-Aware Model-Based Reinforcement Learning: Methodology and Application in Autonomous Driving,2022,contextual,G0,none,none,V1,no,no,no,no,no
+SNOW-60F4A2869111,Advances in verification of ReLU neural networks,2020,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-6106C339D703,Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning,2020,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-67C908C9D061,Decision-making at Unsignalized Intersection for Autonomous Vehicles: Left-turn Maneuver with Deep Reinforcement Learning,2020,contextual,G0,none,none,V1,no,no,yes,no,no
+SNOW-6A61640E09CF,Machine learning applications in automotive engineering: Enhancing vehicle safety and performance,2024,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-6C0EF25A7DF3,Anomaly Detection in Road Traffic Using Visual Surveillance,2020,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-6E9A1F8252FF,Fault-tolerant control strategies for industrial robots: state of the art and future perspective on AI-based fault management,2025,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-71EA82A63135,NeBula: Quest for Robotic Autonomy in Challenging Environments; TEAM CoSTAR at the DARPA Subterranean Challenge,2021,contextual,G0,none,none,V2,no,no,no,yes,no
+SNOW-7347CEED60E5,Risk Conditioned Neural Motion Planning,2021,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-7587C32F6F01,Formal Certification Methods for Automated Vehicle Safety Assessment,2022,contextual,G0,none,none,V1,no,no,no,no,no
+SNOW-85B6EC8640C2,Decision Making in Paths of Autonomous Underwater Vehicles,2024,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-8A3B517905B6,Conformal Prediction Intervals for Markov Decision Process Trajectories,2022,contextual,G3,marginal_finite_sample,none,V2,no,no,no,no,no
+SNOW-8D0910E331FA,Latency-Robust Control of High-Speed Signal-Free Intersections,2020,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-91EA1CCA941A,Penalized Proximal Policy Optimization for Safe Reinforcement Learning,2022,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-941181B06BA8,Motion Prediction on Self-driving Cars: A Review,2020,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-94DE2B7A585A,Evaluating Uncertainty Quantification in End-to-End Autonomous Driving Control,2018,contextual,G0,none,none,V1,no,no,no,no,no
+SNOW-96BCC249CA48,Research on Hierarchical Motion Control of Corner Module Configuration Intelligent Electric Vehicle,2025,contextual,G0,none,none,V3,yes,no,no,no,no
+SNOW-96BD4943E4A5,Perception to Motion: The Role of Multi-Sensor Data Fusion in Realizing the Full Potential of Autonomous Vehicles,2025,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-9723E2C9267D,Humanlike Decision and Motion Planning for Expressway Lane Changing Based on Artificial Potential Field,2022,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-A0C0A04EAB59,Emergency collision avoidance strategy for autonomous vehicles based on steering and differential braking,2022,contextual,G0,none,none,V3,yes,no,no,no,no
+SNOW-A147C3D565CD,Lyapunov-based Safe Policy Optimization for Continuous Control,2019,contextual,G0,none,none,V3,yes,no,no,no,no
+SNOW-B3DDCDCB667C,IPO: Interior-point Policy Optimization under Constraints,2019,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-B538E9D404F6,On exploration requirements for learning safety constraints,2021,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-B5CB4CFD45C8,POMDP Planning Under Object Composition Uncertainty: Application to Robotic Manipulation,2022,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-B8D7510CA86B,Review of Dynamic Decision Making ForConnected VehiclesIn IotSystem,2023,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-B9F04F35FC5D,Risk Assessment and Planning with Bidirectional Reachability for Autonomous Driving,2019,contextual,G0,none,reachability,V3,yes,no,yes,no,no
+SNOW-BB5559F4A816,Potential risk assessment for safe driving of autonomous vehicles under occluded vision,2022,contextual,G0,none,none,V3,yes,no,yes,no,no
+SNOW-BD7619ED5F3B,A Comprehensive Review on Limitations of Autonomous Driving and Its Impact on Accidents and Collisions,2023,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-C1D7F2B2C3F2,Constrained Update Projection Approach to Safe Policy Optimization,2022,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-C31621F37D79,A review on AI Safety in highly automated driving,2022,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-C416E6EB85FF,Autonomous Vehicle Decision Making with Policy Prediction for Handling a Round Intersection,2023,contextual,G0,none,none,V3,yes,no,yes,no,yes
+SNOW-C524FCAF4962,Data-Driven Strategy Decision Integrating Convolution Neural Network With Threat Assessment and Motion Prediction for Automatic Evasive Steering,2023,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-C93315051D41,Benchmarking Safe Reinforcement Learning Algorithms for Autonomous Driving: A Comparative Evaluation in Simulated Environments,2026,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-C964BBC5CAE3,Safe Reinforcement Learning in Constrained Markov Decision Processes,2020,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-CA1A26653EB5,Safe Policy Optimization with Local Generalized Linear Function\n Approximations,2021,contextual,G0,none,none,V2,no,no,yes,no,no
+SNOW-CBF48BD0CEAA,Stochastic Models for Autonomous Systems and Robotics,2025,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-CDE658D2744A,An Empirical Study of DDPG and PPO-Based Reinforcement Learning Algorithms for Autonomous Driving,2023,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-D43000E98F0D,A Comparison of Uncertainty Estimation Approaches in Deep Learning Components for Autonomous Vehicle Applications,2020,contextual,G0,none,none,V1,no,no,no,no,no
+SNOW-D9D7D634D0C0,COLREGs-Compliant Unmanned Surface Vehicles Collision Avoidance Based on Multi-Objective Genetic Algorithm,2020,contextual,G0,none,none,V3,yes,no,no,no,no
+SNOW-DA8E87CDC03F,Bi-directional Value Learning for Risk-aware Planning Under Uncertainty: Extended Version,2019,contextual,G0,none,chance-constrained-control,V2,no,no,no,no,no
+SNOW-DB287DFEE5E1,Driver Behavior Modeling Toward Autonomous Vehicles: Comprehensive Review,2023,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-E14EBC526A79,"A comprehensive review of embedded systems in autonomous vehicles: Trends, challenges, and future directions",2024,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-E66F5A9C5E98,System risk quantification and decision making support using functional modeling and dynamic Bayesian network,2021,contextual,G0,none,none,V2,no,no,no,no,no
+SNOW-E9E7E21B876B,Deep Learning for Safe Autonomous Driving: Current Challenges and Future Directions,2020,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-E9F89C34154A,End-to-end Autonomous Driving using Deep Learning: A Systematic Review,2023,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-EA5921015DA3,Bridging the Gap: Regularized Reinforcement Learning for Improved Classical Motion Planning with Safety Modules,2024,contextual,G0,none,none,V3,yes,no,no,no,no
+SNOW-F179A0443D17,HAIM-DRL: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving,2024,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-F89445419048,"A Review of Tracking, Prediction and Decision Making Methods for Autonomous Driving",2019,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-F9222D3F7AA6,Reinforcement learning in autonomous driving,2024,contextual,G0,none,none,V0,no,no,yes,no,no
+SNOW-F96F6B9DE5A5,Emerging Threats in Deep Learning-Based Autonomous Driving: A Comprehensive Survey,2022,contextual,G0,none,none,V0,no,no,no,no,no
+SNOW-F9A5E35F5BDC,Harnessing Uncertainty in Autonomous Vehicle Safety,2019,contextual,G0,none,none,V1,no,no,yes,no,no
+SNOW-FE6FB50AC3D5,Research On Motion Planning for Intelligent Driving,2025,contextual,G0,none,none,V0,no,no,yes,no,no
+HAND-T12,Collision Risk Estimation via Loss Prediction in End-to-End Autonomous Driving,2025,core,G1,empirical_confidence,none,V3,yes,no,yes,no,no
+HAND-T17,"Uncertainty-Aware Prediction and Application in Planning for Autonomous Driving: Definitions, Methods, and Comparison",2025,core,G1,empirical_confidence,none,V3,yes,no,no,no,yes
+HAND-T19,SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation,2025,core,G3,marginal_finite_sample,none,V3,yes,no,no,no,no
+HAND-T20,Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?,2025,core,G0,none,none,V3,yes,no,no,no,no
+REC-1E3C3FD0433A,"MP3: A Unified Model to Map, Perceive, Predict and Plan",2021,core,G0,none,none,V3,yes,no,yes,no,no
+REC-2BF4FD42D297,Safe Planning in Dynamic Environments Using Conformal Prediction,2023,core,G3,marginal_finite_sample,hybrid-statistical-formal,V3,yes,no,yes,no,no
+REC-305C4C406007,Game-theoretic modeling of vehicle unprotected left turns considering drivers' bounded rationality,2026,core,G0,none,none,V3,yes,no,no,no,no
+REC-36B777B5146F,Probabilistic End-to-End Vehicle Navigation in Complex Dynamic Environments With Multimodal Sensor Fusion,2020,core,G0,none,none,V3,yes,no,yes,no,no
+REC-387AC5B4B80D,CCTR: Calibrating Trajectory Prediction for Uncertainty-Aware Motion Planning in Autonomous Driving,2024,core,G2,empirical_calibration,none,V2,no,no,no,no,no
+REC-476D8EF8B4A1,Autonomous driving system based on dual process theory and deliberate practice theory,2026,core,G0,none,none,V3,yes,no,no,no,no
+REC-5C26D22F6321,UNCAP: Uncertainty-Guided Neurosymbolic Planning Using Natural Language Communication for Cooperative Autonomous Vehicles,2026,core,G3,marginal_finite_sample,none,V3,yes,no,yes,yes,no
+REC-61614B333B49,Self-Adaptive Motion Prediction-Based Proactive Motion Planning for Autonomous Driving in Urban Environments,2021,core,G0,none,none,V4,yes,hardware_or_controlled_field,yes,no,no
+REC-625866873794,Uncertainty-Aware DRL for Autonomous Vehicle Crowd Navigation in Shared Space,2024,core,G0,none,none,V3,yes,no,yes,no,no
+REC-67C3F9503336,Risk-Constrained Interactive Safety under Behavior Uncertainty for Autonomous Driving,2021,core,G0,none,none,V3,yes,no,no,no,no
+REC-716B44FF3106,From uncertainty data to robust policies for temporal logic planning,2018,core,G0,none,none,V3,yes,no,no,no,no
+REC-75C7E53FEEB0,"Ergo, SMIRK is safe: a safety case for a machine learning component in a pedestrian automatic emergency brake system",2023,core,G0,none,none,V3,yes,no,yes,no,yes
+REC-773AA6FD59FA,Hybrid Eyes: Design and Evaluation of the Prediction-Level Cooperative Driving with a Real-World Automated Driving System,2022,core,G0,none,none,V3,yes,no,yes,no,no
+REC-786700C3DDC0,A Self-Driving Decision Making With Reachable Path Analysis and Interaction-Aware Speed Profiling,2023,core,G1,empirical_confidence,none,V3,yes,no,no,no,no
+REC-799C6ADBFDE9,Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach,2025,core,G0,none,none,V4,yes,hardware_or_controlled_field,yes,no,yes
+REC-7BDCC12AD237,Enhancing Pedestrian Safety Through Automated Emergency Steering: Design and Experimental Validation of a Risk-Based Architecture,2026,core,G0,none,none,V4,yes,hardware_or_controlled_field,yes,no,no
+REC-806F1D9E721B,Robust Predictive Motion Planning by Learning Obstacle Uncertainty,2025,core,G0,none,none,V4,yes,hardware_or_controlled_field,no,yes,no
+REC-828FA7E69189,Using Uncertainty Data in Chance-Constrained Trajectory Planning,2019,core,G3,marginal_finite_sample,hybrid-statistical-formal,V2,no,no,no,no,no
+REC-87E700E2C229,UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty,2025,core,G0,none,none,V2,no,no,yes,no,no
+REC-8E36017378AC,Tactical Decision-Making in Autonomous Driving by Reinforcement Learning with Uncertainty Estimation,2020,core,G0,none,none,V3,yes,no,no,no,no
+REC-928AF0A81AEF,Is Anyone There? Learning a Planner Contingent on Perceptual Uncertainty,2023,core,G0,none,none,V3,yes,no,no,no,no
+REC-95A62AD7F91C,Prediction Failure Risk-Aware Decision-Making for Autonomous Vehicles on Signalized Intersections,2023,core,G0,none,none,V3,yes,no,yes,yes,yes
+REC-9C6B9882FF2E,Multi-agent Uncertainty-Aware Pessimistic Model-Based Reinforcement Learning for Connected Autonomous Vehicles,2026,core,G0,none,none,V3,yes,no,yes,no,no
+REC-A67D6501E074,C-TRAIL: A Commonsense World Framework for Trajectory Planning in Autonomous Driving,2026,core,G0,none,none,V3,yes,no,no,yes,no
+REC-AC89E8C9CD96,Chance-Constrained Trajectory Planning With Multimodal Environmental Uncertainty,2023,core,G3,marginal_finite_sample,hybrid-statistical-formal,V2,no,no,no,yes,no
+REC-ACCC42AB6620,Uncertainty Quantification with Statistical Guarantees in End-to-End Autonomous Driving Control,2020,core,G3,marginal_finite_sample,none,V3,yes,no,yes,no,no
+REC-ACFDB6A98E44,Safe Planning and Control Under Uncertainty for Self-Driving,2021,core,G0,none,none,V3,yes,no,no,no,no
+REC-AFDA15A675EC,Ensemble Bayesian Decision Making with Redundant Deep Perceptual Control Policies,2019,core,G0,none,none,V4,yes,hardware_or_controlled_field,no,yes,no
+REC-AFDD3B7A93D6,"Safe, learning-based MPC for highway driving under lane-change uncertainty: A distributionally robust approach",2023,core,G0,none,none,V3,yes,no,no,no,no
+REC-B114D459CA78,Integrated Decision Making and Trajectory Planning for Autonomous Driving Under Multimodal Uncertainties: A Bayesian Game Approach,2026,core,G0,none,none,V3,yes,no,no,no,no
+REC-B2426AE57214,Research on Traffic Vehicle Behavior Prediction Method Based on Game Theory and HMM,2020,core,G0,none,none,V3,yes,no,no,no,no
+REC-B3DF8CF60E3C,Safe Motion Planning Against Multimodal Distributions Based on a Scenario Approach,2022,core,G3,marginal_finite_sample,hybrid-statistical-formal,V3,yes,no,yes,no,no
+REC-D6B6F553C956,Autonomous vehicle path planning by searching with differentiable simulation,2026,core,G0,none,none,V3,yes,no,no,no,no
+REC-D99B6FB84335,Reachability-Based Trajectory Safeguard (RTS): A Safe and Fast Reinforcement Learning Safety Layer for Continuous Control,2021,core,G0,none,reachability,V3,yes,no,no,no,no
+REC-DF7F904075A0,Deep Reinforcement Learning-Based Driving Strategy for Avoidance of Chain Collisions and Its Safety Efficiency Analysis in Autonomous Vehicles,2022,core,G0,none,none,V3,yes,no,no,no,no
+REC-E1726A0F1F49,Trajectory planning under environmental uncertainty with finite-sample safety guarantees,2021,core,G3,marginal_finite_sample,hybrid-statistical-formal,V3,yes,no,no,no,no
+REC-E4E17460A3C3,Efficient Motion Planning With Minimax Objectives: Synergizing Interval Prediction and Tree-Based Planning,2024,core,G0,none,none,V3,yes,no,yes,no,yes
+REC-F4F95DFDAE81,Enhancing Safety in Mixed Traffic: Learning-Based Modeling and Efficient Control of Autonomous and Human-Driven Vehicles,2024,core,G0,none,none,V3,yes,no,yes,no,no
+REC-F8F3547C363E,CogDrive: Cognition-driven multimodal prediction-planning fusion for safe autonomy,2026,core,G0,none,none,V3,yes,no,yes,yes,no
+REC-FCE391AD0A5B,Reinforcement Learning with Uncertainty Estimation for Tactical Decision-Making in Intersections,2020,core,G0,none,none,V3,yes,no,no,no,no
+SNOW-078DADA4E03E,Motion Planning for Autonomous Driving with Real Traffic Data Validation,2024,core,G0,none,none,V2,no,no,yes,no,no
+SNOW-0B17B7A3D0E5,Scenario-Optimization-Based Velocity Planning of Autonomous Vehicles for Interacting With Pedestrians,2025,core,G0,none,none,V3,yes,no,yes,yes,no
+SNOW-0E3524E24C47,S$^{\text{4}}$TP: Social-Suitable and Safety-Sensitive Trajectory Planning for Autonomous Vehicles,2023,core,G0,none,none,V3,yes,no,yes,no,yes
+SNOW-11FB9E6D0AD3,Visual-based Autonomous Driving Deployment from a Stochastic and Uncertainty-aware Perspective,2019,core,G0,none,none,V3,yes,no,yes,no,no
+SNOW-25B19D17B63C,A Trajectory Planning Method Considering Uncertainties Based on FSGP-MPC,2025,core,G0,none,none,V3,yes,no,no,no,no
+SNOW-4F7700CA3A8D,Safe end-to-end imitation learning for model predictive control,2018,core,G0,none,none,V3,yes,no,no,yes,no
+SNOW-50ABDCC74C4C,Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving,2019,core,G0,none,reachability,V3,yes,no,yes,no,no
+SNOW-6EA414DCDBC1,Driving in Real Life with Inverse Reinforcement Learning,2022,core,G0,none,none,V3,yes,no,yes,no,no
+SNOW-734D8279745B,Interaction-Aware Probabilistic Trajectory Prediction of Cut-In Vehicles Using Gaussian Process for Proactive Control of Autonomous Vehicles,2021,core,G0,none,none,V5,yes,real_road_or_live_traffic,no,no,no
+SNOW-73A53C65A065,Emergency Pull-Over Algorithm for Level 4 Autonomous Vehicles Based on Model-Free Adaptive Feedback Control With Sensitivity and Learning Approaches,2022,core,G0,none,none,V4,yes,hardware_or_controlled_field,no,no,no
+SNOW-7432A9EEAE7F,Learning Interaction-aware Guidance Policies for Motion Planning in Dense Traffic Scenarios,2021,core,G0,none,none,V3,yes,no,no,yes,no
+SNOW-8354877E7A15,Deep Multi-agent Reinforcement Learning for Highway On-Ramp Merging in Mixed Traffic,2021,core,G0,none,none,V3,yes,no,no,no,no
+SNOW-938E7EE86838,Equivariant Deep Learning of Mixed-Integer Optimal Control Solutions for Vehicle Decision Making and Motion Planning,2024,core,G0,none,none,V3,yes,no,no,no,no
+SNOW-AE0C3B4E241A,Enhancing System-Level Safety in Mixed-Autonomy Platoon via Safe Reinforcement Learning,2024,core,G0,none,none,V3,yes,no,yes,no,no
+SNOW-CAF5AF34DF5C,Lane-Exchanging Driving Strategy for Autonomous Vehicle via Trajectory Prediction and Model Predictive Control,2022,core,G0,none,none,V3,yes,no,no,no,no
+SNOW-D2B701ED3D7E,Maximum Acceptable Risk as Criterion for Decision-Making in Autonomous Vehicle Trajectory Planning,2023,core,G0,none,none,V3,yes,no,no,no,no
+SNOW-D76D45F5D22D,Deep Imitation Learning for Autonomous Driving in Generic Urban Scenarios with Enhanced Safety,2019,core,G0,none,none,V3,yes,no,yes,no,no
