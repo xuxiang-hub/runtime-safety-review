@@ -48,6 +48,6 @@ The validators check the 303-study join, the 61/242 role split, the G-by-V total
 
 Database exports, bulk abstracts, article PDFs, and verbatim full-text excerpts are not redistributed because of database terms and copyright. Local file paths, exact operational timestamps, and non-analytical workflow metadata are also excluded because they are not necessary to reproduce the published counts or claims. Stable bibliographic identifiers are provided where available so that readers can retrieve source records through lawful access.
 
-## Versioning before submission
+## Citable release
 
-Before citing this repository in a manuscript, create an immutable release and record both its release tag and full commit identifier. Replace the manuscript placeholder with the final repository URL and archived release identifier. A license and citation metadata file should be completed after the repository owner, author list, and final English title are fixed.
+The manuscript cites an immutable GitHub release together with its full commit identifier. Use the matching entry on the repository's Releases page when reproducing or auditing the submitted results; later development on the default branch is not part of that frozen snapshot.
