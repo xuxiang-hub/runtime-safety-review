@@ -18,6 +18,7 @@ def included_files() -> list[Path]:
         for path in ROOT.rglob("*")
         if path.is_file()
         and path != MANIFEST
+        and path.name != ".DS_Store"
         and ".git" not in path.parts
         and "__pycache__" not in path.parts
     )
