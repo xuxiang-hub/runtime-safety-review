@@ -1,0 +1,13 @@
+platform,count,share_pct
+CARLA,196,2.838
+NGSIM,130,1.882
+highD,89,1.289
+nuScenes,83,1.202
+Argoverse,66,0.956
+KITTI,42,0.608
+Waymo,37,0.536
+nuPlan,30,0.434
+ETH/UCY,19,0.275
+INTERACTION,12,0.174
+CommonRoad,11,0.159
+Shifts,0,0.0

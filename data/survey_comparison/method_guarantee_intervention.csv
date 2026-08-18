@@ -1,0 +1,9 @@
+Primary method family,n,Typical output,G0 / G1-2 / G3-4,Formal guarantee n,Decision-consumed n,Dominant intervention,Main evidence gap
+Conformal / online calibration,7,prediction set / calibrated radius,0 / 0 / 7,3,6,"MPC filter (3), trajectory modification (2)",coverage rarely reaches hardware/road validation
+Formal bounds / reachability,45,"safe set, reachable set, barrier margin",43 / 1 / 1,12,38,"trajectory modification (29), none (4)",strict control assumptions often omit learned-input calibration
+Post-hoc calibration,4,calibrated probability / score,2 / 1 / 1,1,2,"none (2), trajectory modification (2)",empirical calibration rarely becomes a planning contract
+"Failure, OOD, or selective monitoring",11,"failure, OOD, anomaly, or alarm score",9 / 1 / 1,0,4,"none (4), monitoring (3)",detection score is not calibrated decision risk
+Bayesian / ensemble UQ,16,"variance, entropy, ensemble dispersion",13 / 2 / 1,0,7,"monitoring (5), none (4)",dispersion lacks a guaranteed harm interpretation
+Multimodal / generative forecasting,32,multi-hypothesis distribution / samples,32 / 0 / 0,0,16,"none (12), trajectory modification (9)",multimodality does not ensure calibrated joint safety
+Probabilistic forecasting,60,"distribution, probability, covariance",58 / 0 / 2,5,37,"trajectory modification (24), none (14)",likelihood/variance often substitutes for risk validation
+Deterministic confidence / other,128,"confidence, heuristic risk, point estimate",128 / 0 / 0,1,41,"none (71), trajectory modification (25)",weak uncertainty semantics and no statistical guarantee

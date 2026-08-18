@@ -1,0 +1,24 @@
+finding_id,metric_id,metric_label,numerator,denominator,percentage,filter_definition,source_fields
+F1,F1-M1,无下游决策消费或仅监测,152,303,50.17,"decision_relevance_primary in {none, monitoring-only}",decision_relevance_primary
+F1,F1-M2,证据停留在V0/V1,152,303,50.17,"validation_maturity_final in {V0,V1}",validation_maturity_final
+F1,F1-M3,contextual中证据停留在V0/V1,152,242,62.81,"formal_corpus_role=contextual and validation_maturity_final in {V0,V1}",formal_corpus_role; validation_maturity_final
+F2,F2-M1,标题界定的OOD/异常/预测失效原始研究具有下游安全风险契约,0,6,0.0,title keyword subset; review-like records excluded; guarantee family is safety-risk calibration/coverage,publication_type; title; statistical_guarantee_family_final
+F2,F2-M2,全部语料为G0,285,303,94.06,statistical_guarantee_strength_final=G0,statistical_guarantee_strength_final
+F2,F2-M3,core语料为G0,49,61,80.33,formal_corpus_role=core and statistical_guarantee_strength_final=G0,formal_corpus_role; statistical_guarantee_strength_final
+F3,F3-M1,没有显式分布偏移构造,258,303,85.15,shift_construction=NA:no explicit distribution-shift construction,shift_construction
+F3,F3-M2,把偏移编码为运行时可检测,10,303,3.3,shift_detectable=yes,shift_detectable
+F3,F3-M3,达到G4在线/序列保证,3,303,0.99,statistical_guarantee_strength_final=G4,statistical_guarantee_strength_final; statistical_guarantee_family_final
+F4,F4-M1,多主体评价中采用联合多主体保证,0,87,0.0,multiagent_evaluation=yes and statistical_guarantee_family_final=joint_multiagent,multiagent_evaluation; statistical_guarantee_family_final
+F4,F4-M2,多主体评价达到G3/G4,5,87,5.75,"multiagent_evaluation=yes and G in {G3,G4}",multiagent_evaluation; statistical_guarantee_strength_final
+F4,F4-M3,全语料明确采用联合多主体保证,1,303,0.33,statistical_guarantee_family_final=joint_multiagent,statistical_guarantee_family_final
+F5,F5-M1,没有闭环评价,204,303,67.33,closed_loop_evaluation!=yes,closed_loop_evaluation
+F5,F5-M2,达到V4/V5,7,303,2.31,"validation_maturity_final in {V4,V5}",validation_maturity_final
+F5,F5-M3,报告数值在线延迟/频率,21,303,6.93,online_latency_reported=yes,online_latency_reported
+F5,F5-M4,报告交通系统/他主体影响,13,303,4.29,transportation_impact_reported=yes,transportation_impact_reported
+F5,F5-M5,同时报告延迟与交通影响,1,303,0.33,online_latency_reported=yes and transportation_impact_reported=yes,online_latency_reported; transportation_impact_reported
+F6,F6-M1,G3/G4中达到V4/V5,0,13,0.0,"G in {G3,G4} and V in {V4,V5}",statistical_guarantee_strength_final; validation_maturity_final
+F6,F6-M2,V4/V5论文为G0,7,7,100.0,"V in {V4,V5} and G=G0",statistical_guarantee_strength_final; validation_maturity_final
+F6,F6-M3,G3/G4具有闭环评价,7,13,53.85,"G in {G3,G4} and closed_loop_evaluation=yes",statistical_guarantee_strength_final; closed_loop_evaluation
+F7,F7-M1,形式控制保证与统计保证形成混合接口,7,22,31.82,formal_control_guarantee_final!=none and equals hybrid-statistical-formal,formal_control_guarantee_final; statistical_guarantee_strength_final
+F7,F7-M2,形式控制保证仍为G0,15,22,68.18,formal_control_guarantee_final!=none and G=G0,formal_control_guarantee_final; statistical_guarantee_strength_final
+F7,F7-M3,G3/G4形成统计—形式混合接口,7,13,53.85,"G in {G3,G4} and formal_control_guarantee_final=hybrid-statistical-formal",statistical_guarantee_strength_final; formal_control_guarantee_final

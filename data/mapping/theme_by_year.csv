@@ -1,0 +1,91 @@
+year,coverage_note,theme,label,count,year_total,share_pct
+2018,full_year,T1_motion_prediction,Motion prediction,20,306,6.536
+2018,full_year,T2_planning_decision,Planning & decision,94,306,30.719
+2018,full_year,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,83,306,27.124
+2018,full_year,T4_calibration_statistical,Calibration & statistical guarantees,2,306,0.654
+2018,full_year,T5_shift_ood_failure,"Shift, OOD & failure detection",9,306,2.941
+2018,full_year,T6_risk_aware_propagation,Risk-aware decision & propagation,22,306,7.19
+2018,full_year,T7_runtime_monitor_intervention,Runtime monitoring & intervention,20,306,6.536
+2018,full_year,T8_formal_safety_control,Formal safety & control,7,306,2.288
+2018,full_year,T9_scenario_testing_validation,Scenario testing & validation,2,306,0.654
+2018,full_year,T10_cooperative_multiagent,Cooperative & multi-agent systems,27,306,8.824
+2019,full_year,T1_motion_prediction,Motion prediction,31,415,7.47
+2019,full_year,T2_planning_decision,Planning & decision,144,415,34.699
+2019,full_year,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,116,415,27.952
+2019,full_year,T4_calibration_statistical,Calibration & statistical guarantees,2,415,0.482
+2019,full_year,T5_shift_ood_failure,"Shift, OOD & failure detection",10,415,2.41
+2019,full_year,T6_risk_aware_propagation,Risk-aware decision & propagation,45,415,10.843
+2019,full_year,T7_runtime_monitor_intervention,Runtime monitoring & intervention,26,415,6.265
+2019,full_year,T8_formal_safety_control,Formal safety & control,15,415,3.614
+2019,full_year,T9_scenario_testing_validation,Scenario testing & validation,2,415,0.482
+2019,full_year,T10_cooperative_multiagent,Cooperative & multi-agent systems,50,415,12.048
+2020,full_year,T1_motion_prediction,Motion prediction,71,549,12.933
+2020,full_year,T2_planning_decision,Planning & decision,189,549,34.426
+2020,full_year,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,125,549,22.769
+2020,full_year,T4_calibration_statistical,Calibration & statistical guarantees,6,549,1.093
+2020,full_year,T5_shift_ood_failure,"Shift, OOD & failure detection",11,549,2.004
+2020,full_year,T6_risk_aware_propagation,Risk-aware decision & propagation,50,549,9.107
+2020,full_year,T7_runtime_monitor_intervention,Runtime monitoring & intervention,31,549,5.647
+2020,full_year,T8_formal_safety_control,Formal safety & control,22,549,4.007
+2020,full_year,T9_scenario_testing_validation,Scenario testing & validation,12,549,2.186
+2020,full_year,T10_cooperative_multiagent,Cooperative & multi-agent systems,64,549,11.658
+2021,full_year,T1_motion_prediction,Motion prediction,71,618,11.489
+2021,full_year,T2_planning_decision,Planning & decision,230,618,37.217
+2021,full_year,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,137,618,22.168
+2021,full_year,T4_calibration_statistical,Calibration & statistical guarantees,2,618,0.324
+2021,full_year,T5_shift_ood_failure,"Shift, OOD & failure detection",21,618,3.398
+2021,full_year,T6_risk_aware_propagation,Risk-aware decision & propagation,41,618,6.634
+2021,full_year,T7_runtime_monitor_intervention,Runtime monitoring & intervention,33,618,5.34
+2021,full_year,T8_formal_safety_control,Formal safety & control,31,618,5.016
+2021,full_year,T9_scenario_testing_validation,Scenario testing & validation,17,618,2.751
+2021,full_year,T10_cooperative_multiagent,Cooperative & multi-agent systems,76,618,12.298
+2022,full_year,T1_motion_prediction,Motion prediction,105,708,14.831
+2022,full_year,T2_planning_decision,Planning & decision,288,708,40.678
+2022,full_year,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,208,708,29.379
+2022,full_year,T4_calibration_statistical,Calibration & statistical guarantees,5,708,0.706
+2022,full_year,T5_shift_ood_failure,"Shift, OOD & failure detection",38,708,5.367
+2022,full_year,T6_risk_aware_propagation,Risk-aware decision & propagation,57,708,8.051
+2022,full_year,T7_runtime_monitor_intervention,Runtime monitoring & intervention,47,708,6.638
+2022,full_year,T8_formal_safety_control,Formal safety & control,22,708,3.107
+2022,full_year,T9_scenario_testing_validation,Scenario testing & validation,28,708,3.955
+2022,full_year,T10_cooperative_multiagent,Cooperative & multi-agent systems,102,708,14.407
+2023,full_year,T1_motion_prediction,Motion prediction,148,897,16.499
+2023,full_year,T2_planning_decision,Planning & decision,381,897,42.475
+2023,full_year,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,259,897,28.874
+2023,full_year,T4_calibration_statistical,Calibration & statistical guarantees,11,897,1.226
+2023,full_year,T5_shift_ood_failure,"Shift, OOD & failure detection",45,897,5.017
+2023,full_year,T6_risk_aware_propagation,Risk-aware decision & propagation,117,897,13.043
+2023,full_year,T7_runtime_monitor_intervention,Runtime monitoring & intervention,58,897,6.466
+2023,full_year,T8_formal_safety_control,Formal safety & control,42,897,4.682
+2023,full_year,T9_scenario_testing_validation,Scenario testing & validation,42,897,4.682
+2023,full_year,T10_cooperative_multiagent,Cooperative & multi-agent systems,118,897,13.155
+2024,full_year,T1_motion_prediction,Motion prediction,163,1076,15.149
+2024,full_year,T2_planning_decision,Planning & decision,431,1076,40.056
+2024,full_year,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,297,1076,27.602
+2024,full_year,T4_calibration_statistical,Calibration & statistical guarantees,15,1076,1.394
+2024,full_year,T5_shift_ood_failure,"Shift, OOD & failure detection",71,1076,6.599
+2024,full_year,T6_risk_aware_propagation,Risk-aware decision & propagation,120,1076,11.152
+2024,full_year,T7_runtime_monitor_intervention,Runtime monitoring & intervention,66,1076,6.134
+2024,full_year,T8_formal_safety_control,Formal safety & control,33,1076,3.067
+2024,full_year,T9_scenario_testing_validation,Scenario testing & validation,45,1076,4.182
+2024,full_year,T10_cooperative_multiagent,Cooperative & multi-agent systems,138,1076,12.825
+2025,full_year,T1_motion_prediction,Motion prediction,251,1438,17.455
+2025,full_year,T2_planning_decision,Planning & decision,709,1438,49.305
+2025,full_year,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,463,1438,32.197
+2025,full_year,T4_calibration_statistical,Calibration & statistical guarantees,18,1438,1.252
+2025,full_year,T5_shift_ood_failure,"Shift, OOD & failure detection",94,1438,6.537
+2025,full_year,T6_risk_aware_propagation,Risk-aware decision & propagation,214,1438,14.882
+2025,full_year,T7_runtime_monitor_intervention,Runtime monitoring & intervention,112,1438,7.789
+2025,full_year,T8_formal_safety_control,Formal safety & control,75,1438,5.216
+2025,full_year,T9_scenario_testing_validation,Scenario testing & validation,73,1438,5.076
+2025,full_year,T10_cooperative_multiagent,Cooperative & multi-agent systems,246,1438,17.107
+2026,partial_through_2026-07-31,T1_motion_prediction,Motion prediction,127,900,14.111
+2026,partial_through_2026-07-31,T2_planning_decision,Planning & decision,491,900,54.556
+2026,partial_through_2026-07-31,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,337,900,37.444
+2026,partial_through_2026-07-31,T4_calibration_statistical,Calibration & statistical guarantees,27,900,3.0
+2026,partial_through_2026-07-31,T5_shift_ood_failure,"Shift, OOD & failure detection",92,900,10.222
+2026,partial_through_2026-07-31,T6_risk_aware_propagation,Risk-aware decision & propagation,166,900,18.444
+2026,partial_through_2026-07-31,T7_runtime_monitor_intervention,Runtime monitoring & intervention,86,900,9.556
+2026,partial_through_2026-07-31,T8_formal_safety_control,Formal safety & control,44,900,4.889
+2026,partial_through_2026-07-31,T9_scenario_testing_validation,Scenario testing & validation,60,900,6.667
+2026,partial_through_2026-07-31,T10_cooperative_multiagent,Cooperative & multi-agent systems,191,900,21.222

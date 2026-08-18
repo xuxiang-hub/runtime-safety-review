@@ -1,0 +1,101 @@
+rank,phrase,document_frequency,document_share_pct
+1,decision making,1524,22.103
+2,real time,1181,17.128
+3,reinforcement learning,1124,16.302
+4,real world,1076,15.606
+5,trajectory prediction,683,9.906
+6,deep learning,590,8.557
+7,path planning,568,8.238
+8,neural network,563,8.165
+9,collision avoidance,548,7.948
+10,motion planning,536,7.774
+11,automated vehicles,503,7.295
+12,vehicles avs,492,7.136
+13,machine learning,480,6.962
+14,predictive control,466,6.759
+15,deep reinforcement,441,6.396
+16,deep reinforcement learning,439,6.367
+17,safety critical,436,6.323
+18,neural networks,419,6.077
+19,autonomous vehicles avs,406,5.888
+20,artificial intelligence,389,5.642
+21,trajectory planning,385,5.584
+22,driving scenarios,342,4.96
+23,traffic scenarios,341,4.946
+24,planning autonomous,332,4.815
+25,safety efficiency,322,4.67
+26,end end,307,4.453
+27,surrounding vehicles,305,4.423
+28,traffic flow,304,4.409
+29,driving safety,300,4.351
+30,short term,296,4.293
+31,lane change,292,4.235
+32,risk assessment,277,4.017
+33,intelligent transportation,270,3.916
+34,obstacle avoidance,269,3.901
+35,multi agent,269,3.901
+36,mixed traffic,264,3.829
+37,recent years,262,3.8
+38,ego vehicle,261,3.785
+39,lane changing,256,3.713
+40,vehicles cavs,255,3.698
+41,emergency braking,253,3.669
+42,collision risk,250,3.626
+43,human driven,243,3.524
+44,large scale,242,3.51
+45,driving behavior,234,3.394
+46,connected automated,232,3.365
+47,vehicle trajectory,231,3.35
+48,human drivers,230,3.336
+49,traffic safety,229,3.321
+50,long short,227,3.292
+51,prediction accuracy,226,3.278
+52,long short term,223,3.234
+53,control mpc,218,3.162
+54,safe efficient,216,3.133
+55,connected autonomous,215,3.118
+56,term memory,215,3.118
+57,predictive control mpc,214,3.104
+58,short term memory,214,3.104
+59,control autonomous,212,3.075
+60,long term,209,3.031
+61,driven vehicles,207,3.002
+62,traffic environments,205,2.973
+63,road safety,205,2.973
+64,high level,203,2.944
+65,making autonomous,202,2.93
+66,vehicle dynamics,201,2.915
+67,dynamic environments,200,2.901
+68,traffic participants,199,2.886
+69,decision making autonomous,198,2.872
+70,human driven vehicles,197,2.857
+71,closed loop,194,2.814
+72,learning drl,191,2.77
+73,reinforcement learning drl,190,2.756
+74,collision free,189,2.741
+75,research directions,188,2.727
+76,safety autonomous,187,2.712
+77,connected automated vehicles,184,2.669
+78,deep neural,184,2.669
+79,automated vehicle,183,2.654
+80,complex traffic,179,2.596
+81,however existing,178,2.582
+82,traffic efficiency,177,2.567
+83,car following,176,2.553
+84,connected autonomous vehicles,176,2.553
+85,risk aware,175,2.538
+86,motion prediction,173,2.509
+87,markov decision,172,2.495
+88,carried out,171,2.48
+89,time collision,170,2.466
+90,learning autonomous,168,2.437
+91,vehicle safety,168,2.437
+92,multi modal,165,2.393
+93,driver assistance,164,2.379
+94,ensure safety,162,2.35
+95,convolutional neural,162,2.35
+96,traffic conditions,161,2.335
+97,ensuring safety,161,2.335
+98,future trajectories,161,2.335
+99,driving vehicles,161,2.335
+100,object detection,160,2.321

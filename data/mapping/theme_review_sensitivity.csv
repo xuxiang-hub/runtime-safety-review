@@ -1,0 +1,31 @@
+group,theme,label,count,denominator,share_pct
+all_records,T1_motion_prediction,Motion prediction,987,6907,14.29
+all_records,T2_planning_decision,Planning & decision,2957,6907,42.812
+all_records,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,2025,6907,29.318
+all_records,T4_calibration_statistical,Calibration & statistical guarantees,88,6907,1.274
+all_records,T5_shift_ood_failure,"Shift, OOD & failure detection",391,6907,5.661
+all_records,T6_risk_aware_propagation,Risk-aware decision & propagation,832,6907,12.046
+all_records,T7_runtime_monitor_intervention,Runtime monitoring & intervention,479,6907,6.935
+all_records,T8_formal_safety_control,Formal safety & control,291,6907,4.213
+all_records,T9_scenario_testing_validation,Scenario testing & validation,281,6907,4.068
+all_records,T10_cooperative_multiagent,Cooperative & multi-agent systems,1012,6907,14.652
+non_review_records,T1_motion_prediction,Motion prediction,901,5993,15.034
+non_review_records,T2_planning_decision,Planning & decision,2606,5993,43.484
+non_review_records,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,1851,5993,30.886
+non_review_records,T4_calibration_statistical,Calibration & statistical guarantees,80,5993,1.335
+non_review_records,T5_shift_ood_failure,"Shift, OOD & failure detection",312,5993,5.206
+non_review_records,T6_risk_aware_propagation,Risk-aware decision & propagation,752,5993,12.548
+non_review_records,T7_runtime_monitor_intervention,Runtime monitoring & intervention,452,5993,7.542
+non_review_records,T8_formal_safety_control,Formal safety & control,274,5993,4.572
+non_review_records,T9_scenario_testing_validation,Scenario testing & validation,240,5993,4.005
+non_review_records,T10_cooperative_multiagent,Cooperative & multi-agent systems,860,5993,14.35
+review_or_survey_records,T1_motion_prediction,Motion prediction,86,914,9.409
+review_or_survey_records,T2_planning_decision,Planning & decision,351,914,38.403
+review_or_survey_records,T3_uncertainty_probabilistic,Uncertainty & probabilistic modeling,174,914,19.037
+review_or_survey_records,T4_calibration_statistical,Calibration & statistical guarantees,8,914,0.875
+review_or_survey_records,T5_shift_ood_failure,"Shift, OOD & failure detection",79,914,8.643
+review_or_survey_records,T6_risk_aware_propagation,Risk-aware decision & propagation,80,914,8.753
+review_or_survey_records,T7_runtime_monitor_intervention,Runtime monitoring & intervention,27,914,2.954
+review_or_survey_records,T8_formal_safety_control,Formal safety & control,17,914,1.86
+review_or_survey_records,T9_scenario_testing_validation,Scenario testing & validation,41,914,4.486
+review_or_survey_records,T10_cooperative_multiagent,Cooperative & multi-agent systems,152,914,16.63
